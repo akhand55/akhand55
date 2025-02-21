@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akhand55&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
+![snake gif](https://github.com/akhand55/akhand55/blob/output/github-snake-dark.svg)

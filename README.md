@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhand55&" alt="akhand55" />
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akhand55&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 </p>

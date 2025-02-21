@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![snake gif](https://github.com/akhand55/akhand55/blob/output/github-snake-dark.svg)
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhand55&show_icons=true&locale=en&layout=compact" alt="akhand55" />
+</p>
